@@ -8,13 +8,15 @@
 
 ## Introdução
 
-Este relatório tem como objetivo documentar as ações realizadas durante o semestre letivo de 2025/1, no âmbito da disciplina **Práticas Extensionistas na Educação em Computação**.
-O projeto buscou responder a uma demanda concreta da rede de educação básica: como abordar os conteúdos da BNCC Computação de forma prática, acessível e significativa para 
+Este relatório tem como objetivo documentar as ações realizadas durante o semestre
+letivo de 2025/1, na disciplina **Práticas Extensionistas na Educação em Computação**.
+As ações desse grupo buscaram responder a uma demanda concreta da rede de educação básica: 
+como abordar os conteúdos da BNCC Computação de forma prática, acessível e significativa para 
 professores e estudantes do ensino fundamental.
 
-Ao longo do semestre, nosso grupo desenvolveu atividades didáticas alinhadas aos códigos de habilidades da BNCC Computação, com foco no ensino fundamental, buscando traduzi-los
-para o contexto escolar do ensino fundamental. Esse processo envolveu encontros presenciais com o Núcleo de Tecnologia Educacional Municipal de Santa Maria (NTEM),
-momentos de escuta e aprendizado, validação das propostas e produção de uma apostila com as atividades desenvolvidas.
+Ao longo do semestre, nosso grupo desenvolveu atividades didáticas alinhadas aos códigos de habilidades da 
+BNCC Computação, com foco no ensino fundamental, buscando traduzi-los
+para o contexto escolar do ensino fundamental. Esse processo envolveu encontros presenciais com o Núcleo de Tecnologia Educacional Municipal de Santa Maria (NTEM), momentos de escuta e aprendizado, validação das propostas e produção de uma apostila com as atividades desenvolvidas.
 
 A seguir, detalhamos o que foi feito, com quem interagimos e o que aprendemos a partir dessa experiência de extensão universitária.
 
@@ -23,7 +25,7 @@ A seguir, detalhamos o que foi feito, com quem interagimos e o que aprendemos a 
 ## O que foi feito
 
 - Levantamento de temas de interesse e dificuldade identificados pela equipe do NTEM em relação ao documento da BNCC computação. 
-- Planejamento e desenvolvimento de atividades didáticas sobre:
+- Pesquisa, planejamento e desenvolvimento de atividades didáticas sobre:
   - Matrizes e registros
   - Listas e grafos
   - Árvores binárias
@@ -41,8 +43,7 @@ Cada atividade tem antes uma introdução teórica ao conteúdo abordado.
 ## Com quem interagimos
 
 - **Núcleo de Tecnologia Educacional Municipal de Santa Maria**: responsável pela articulação entre escolas públicas e ações tecnológicas.
-- **Orientando Professora Andrea - Wederson**: Desenvolveu uma ferramente para navegar o extenso documento da BNCC computação e compartilhou o acesso
-à planilha de códigos de habilidades conosco, o que facilitou muito a categorização das atividades.
+- **Orientando Professora Andrea - Wederson**: Desenvolveu uma ferramente para navegar o extenso documento da BNCC computação e compartilhou o acesso à planilha de códigos de habilidades conosco, o que facilitou muito a categorização das atividades.
 
 
 ---
@@ -58,11 +59,26 @@ Cada atividade tem antes uma introdução teórica ao conteúdo abordado.
 
 ---
 
-## Experiência individual
+## Experiência individual - Daniel
 
-- Akin
+No período que estávamos buscando e criando atividades escolhi fazer uma relacionada ao conceito de árvores binárias.
+Assim, a atividade "Desvendando o akinator" foi criada. Alguns pontos principais de aprendizado que esta criação me
+proporcionou foram:
 
+- Momento de repensar a atividade:
+  - Durante uma das reuniões do grupo, uma questão foi levantada sobre a atividade demandar muito conhecimento de pseudocódigo. Com isso, a atividade foi rearranjada para que partes mais avançadas sejam um desafio opcional.
+  - Além disso, uma introdução anterior sobre árvores binárias passou a ser fundamental, então uma apresentação com esse propósito foi desenvolvida.
+  
+- O formato de jogo do akinator, pode facilmente ser aplicado à outras áreas do conhecimento, para tornar o aprendizado divertido.
+  - Aprendi isso graças ao feedback da equipe do NTEM durante o 1o encontro presencial.
 
+- A ferramenta draw.io é extremamente útil para a criação de diagramas.
+
+Para mim, essa disciplina foi extremamente valiosa para entender como criar, planejar e executar ações de extensão.
+Tenho certeza que após as pesquisas, categorizações, criações, reuniões e apresentações me tornei um estudante
+de graduação mais apto e proativo.
+Encerro a disciplina muito satisfeito e grato pelos aprendizados e pelas oportunidades ofertadas.
+  
 ---
 
 
